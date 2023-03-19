@@ -1,4 +1,4 @@
-# MyQL-Project-
+# MySQL-Project-
 
 Uppgift: Du har fått i uppdrag att skapa en databas för en fiktiv streamingplattform som samlar in information om filmer och TV-serier. Databasen (MySQL) ska innehålla information om titlar, skådespelare, betyg, producenter och utgivningsår, och du behöver skriva SQL-frågor för att hämta och hantera informationen.
 Databasen ska innehålla fem tabeller:
